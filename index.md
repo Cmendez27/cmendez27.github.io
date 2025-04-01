@@ -1,9 +1,11 @@
 ### Cesia's BioAnalysis 
+<br/>
+<br/>
 
 Bio Major with concentration in Health Sciences<br/>
-&nbsp; Southern New Hamoshire University<br/>
-&nbsp; &nbsp; email: cesiamendez8@gmail.com<br/>
-&nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
+Southern New Hamoshire University<br/>
+E-mail: cesiamendez8@gmail.com<br/>
+[Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
 
 <br/>
 <br/>
