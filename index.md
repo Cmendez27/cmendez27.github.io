@@ -14,7 +14,7 @@ E-mail: cesiamendez8@gmail.com<br/>
 
 ### Welcome
 
-[here](https://Cmendez27.github.io/BioStatisticsAnalysis/PalmerPenguins_Initial.html)
+[here](https://cmendez27.github.io/BioStatisticsAnalysis/PalmerPenguins_Initial.html)
 
 Welcome to my page – a man of many talents, few inhibitions, and a boundless sense of humor! From crafting toys at the Happy-Go-Lucky Toy Factory to ensuring the quality of Quahog’s favorite brews at Pawtucket Brewery, I’ve built a career out of hard work, good laughs, and the occasional chicken fight. When I’m not on the job, you can find me spending time with my family, hosting impromptu karaoke nights, or dreaming up my next big idea. Grab a snack and stay a while – you never know what adventures we might embark on together!
 
