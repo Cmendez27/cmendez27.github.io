@@ -1,23 +1,35 @@
 ### Cesia's BioAnalysis 
+Bioinformatics is the bridge between biology and computational science,that offers tools to analyze and interpret biological data. Through my journey, I have applied statistical and computational techniques to different datasets, gaining experience in data analysis, visualization, and biological interpretation. This webpage will include key projects that have strengthened my understanding of bioinformatics.
 <br/>
 <br/>
-
-Bio Major with concentration in Health Sciences<br/>
-Southern New Hamoshire University<br/>
-E-mail: cesiamendez8@gmail.com<br/>
-[Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
-
+### About Me 
+Coming to Southern New Hampshire University from Honduras as an international student has been great, especially because I'm pursuing my interest in the point where biology and computational science connect. I'm really passionate about using data to uncover meaningful things in biological research. My journey into bioinformatics has been driven by wanting to understand complex biological systems through data analysis and seeing it visually. I've gained experience in areas like statistical modeling, looking at genomic data, and phylogenetics, and I'm looking forward to keep learning new skills in the future. 
 <br/>
 <br/>
+### Palmer Penguins Analysis 
+The Palmer Penguins dataset provides a good alternative to the traditional Iris dataset for the purpose of species classification through its diverse attributes. My project involved a comprehensive exploratory data analysis, including the generation of detailed data visualizations using ggplot2. These visuals helped to examine the distribution of features such as culmen length and body mass in relation to penguin species.The findings of this project highlighted the importance of thoughtful feature selection and effectively showcased the value of visualization in discerning the differences between the penguin species.
+My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAnalysis/PalmerPenguins_Initial.html)
 <br/>
 <br/>
+### Great Lake Fish Analysis 
+This project involved analyzing fish species distribution in the Great Lakes. I worked with fisheries data to identify trends in fish populations over time, evaluating environmental factors that might influence species abundance. Using R and tidyverse packages, I performed data cleaning, visualization, and statistical modeling. The results provided insights into ecological dynamics and the potential impact of environmental changes on aquatic biodiversity.
+My analysis will be available  [here](https://cmendez27.github.io/BioStatisticsAnalysis/Great%20Lake%20Fish%20Analysis.html.md)
+<br/>
+<br/>
+### Performing Quantitative RNA-seq, Part I
+RNA sequencingis a powerful technique for quantifying gene expression. In this first part of the RNA-seq project an R and edgeR package was used to analyze RNA sequencing data. In addition to this, a Drosophila melanogaster dataset sample was loaded to compare the gene expression between two stages of larvae, and identify which genes are significantly different between them.
+My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAnalysis/Performing%20Quantitative%20RNA-seq.html.md)
+<br/>
+<br/>
+###  Performing Quantitative RNA-seq, Part II
 
-### Welcome
 
-[here](https://cmendez27.github.io/BioStatisticsAnalysis/PalmerPenguins_Initial.html)
 
-Welcome to my page – a man of many talents, few inhibitions, and a boundless sense of humor! From crafting toys at the Happy-Go-Lucky Toy Factory to ensuring the quality of Quahog’s favorite brews at Pawtucket Brewery, I’ve built a career out of hard work, good laughs, and the occasional chicken fight. When I’m not on the job, you can find me spending time with my family, hosting impromptu karaoke nights, or dreaming up my next big idea. Grab a snack and stay a while – you never know what adventures we might embark on together!
 
-### Sample Work Products
+### Phylogenetic Analysis and Visualization
+Understanding evolutionary relationships among species is fundamental to bioinformatics. In this project, I constructed phylogenetic trees using sequence alignment and tree-building algorithms such as Newick, Nexus, BEAST, and RAxML, to load, convert and analyze phylogenetic data. This project helped to develop essential skills in plylogenetic analysis, bioinformatics, and data visualization, gaining a deeper appreciation for how genetic relationships are studied in Biology.
+My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAnalysis/Phylogenetic%20Analysis%20and%20Visualization.html.md)
+<br/>
+<br/>
+### Conclusion 
 
-I'm available for safety-related consulting work in the manufacturing and production fields. Check out [one of my recent safety reports](https://agmath.github.io/PagesBasic/SiteFiles/SampleSafetyReport.html) from an incident at Pawtucket Brewery as an example of what I can do for you!
