@@ -13,12 +13,12 @@ My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAn
 <br/>
 ### Great Lake Fish Analysis 
 This project involved analyzing fish species distribution in the Great Lakes. I worked with fisheries data to identify trends in fish populations over time, evaluating environmental factors that might influence species abundance. Using R and tidyverse packages, I performed data cleaning, visualization, and statistical modeling. The results provided insights into ecological dynamics and the potential impact of environmental changes on aquatic biodiversity.
-My analysis will be available  [here](https://cmendez27.github.io/BioStatisticsAnalysis/Great%20Lake%20Fish%20Analysis.html.md)
+My analysis will be available  [here](https://cmendez27.github.io/BioStatisticsAnalysis/Great%20Lake%20Fish%20Analysis.html)
 <br/>
 <br/>
 ### Performing Quantitative RNA-seq, Part I
 RNA sequencingis a powerful technique for quantifying gene expression. In this first part of the RNA-seq project an R and edgeR package was used to analyze RNA sequencing data. In addition to this, a Drosophila melanogaster dataset sample was loaded to compare the gene expression between two stages of larvae, and identify which genes are significantly different between them.
-My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAnalysis/Performing%20Quantitative%20RNA-seq.html.md)
+My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAnalysis/Performing%20Quantitative%20RNA-seq.html)
 <br/>
 <br/>
 ###  Performing Quantitative RNA-seq, Part II
@@ -28,7 +28,7 @@ My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAn
 
 ### Phylogenetic Analysis and Visualization
 Understanding evolutionary relationships among species is fundamental to bioinformatics. In this project, I constructed phylogenetic trees using sequence alignment and tree-building algorithms such as Newick, Nexus, BEAST, and RAxML, to load, convert and analyze phylogenetic data. This project helped to develop essential skills in plylogenetic analysis, bioinformatics, and data visualization, gaining a deeper appreciation for how genetic relationships are studied in Biology.
-My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAnalysis/Phylogenetic%20Analysis%20and%20Visualization.html.md)
+My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAnalysis/Phylogenetic%20Analysis%20and%20Visualization.html)
 <br/>
 <br/>
 ### Conclusion 
