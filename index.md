@@ -22,14 +22,12 @@ My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAn
 <br/>
 <br/>
 ###  Performing Quantitative RNA-seq, Part II
-
-
-
-
+Building on the previous part, RNA- sequence data from Arabidopsis thaliana was analyzed and visualized using heat maps to identify patterns in gene expression across different ecotypes and plant parts. The ComplexHeatmap package in R was used to generate a heat map, with color palettes to enhance visual interpretation. The heat map helped to reveal trends in gene expression, highlighting which genes are more active in specific conditions.
+My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAnalysis/RNA-seq%20Part%20II.html)
+<br/>
+<br/>
 ### Phylogenetic Analysis and Visualization
 Understanding evolutionary relationships among species is fundamental to bioinformatics. In this project, I constructed phylogenetic trees using sequence alignment and tree-building algorithms such as Newick, Nexus, BEAST, and RAxML, to load, convert and analyze phylogenetic data. This project helped to develop essential skills in plylogenetic analysis, bioinformatics, and data visualization, gaining a deeper appreciation for how genetic relationships are studied in Biology.
 My analysis will be available [here](https://cmendez27.github.io/BioStatisticsAnalysis/Phylogenetic%20Analysis%20and%20Visualization.html)
 <br/>
 <br/>
-### Conclusion 
-
